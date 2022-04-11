@@ -1,0 +1,48 @@
+.WarningBg > .visible.menu > .selected.item.addition {
+    background: rgba(255, 248, 54, 0.5) !important;
+  }
+
+  .ui.selection.dropdown {
+    color: #55637a !important;
+  }
+  .ui.dropdown .menu > .item {
+    color: #55637a !important;
+  }
+  .FunnelStatusLabel > .disabled.dropdown {
+    border: 0 !important;
+    background-color: #5c62ad !important;
+    color: white !important;
+    border-radius: 30px !important;
+    text-transform: uppercase;
+    padding: 11px 5px 5px 5px !important;
+    text-align: center;
+  }
+  .FunnelStatusLabel {
+    min-width: 10em;
+  }
+  
+  .FunnelStatusLabel > .disabled.dropdown > .dropdown.icon {
+    display: none !important;
+  }
+  
+  .FunnelStatusLabel .ui.disabled.search {
+    opacity: 1 !important;
+  }
+  
+  .ui.form .field.FunnelStatusLabel label {
+    color: #a0a8b3 !important;
+    margin-right: 0.5rem;
+  }
+  
+  .field.LabelNameLabel.selectInputWidt08 {
+    .ui.search.selection.dropdown {
+      min-width: 8em !important;
+    }
+  }
+  
+  .field.LabelNameLabel.selectInputWidt05 {
+    .ui.search.selection.dropdown {
+      min-width: 5em !important;
+    }
+  }
+  
